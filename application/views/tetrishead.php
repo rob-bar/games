@@ -18,13 +18,13 @@
 	<link rel="stylesheet" type="text/css" href="css/tetrisstyle.css" />
 	<link rel="stylesheet" type="text/css" href="css/browsererror.css" />
 	<!--Global Javascript files-->
-	<script type='text/javascript' src="http://www.google.com/jsapi"></script><!-- google api downloader-->
 	<script type='text/javascript' src='js/jquery/jQuery.js'></script><!--Latest Jquery files-->
 	<script type='text/javascript' src='js/preloading/loader.jquery.js'></script><!--preloading-->
 	<script src='http://heartcode-canvasloader.googlecode.com/files/heartcode-canvasloader-min-0.9.1.js'></script>
 
 	<!--JAVASCRIPT AND CSS FILES FOR SPECIFIC PAGES (loaded by controllers) -->
 	<?php echo ($headextra); ?>
+
 	<script type='text/javascript' src='js/MasterTetris.js'></script><!--Custom Javascript file-->
 
 </head>

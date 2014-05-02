@@ -17,9 +17,7 @@
 	<link rel="stylesheet" type="text/css" href="css/canvassnakestyle.css" />
 	<link rel="stylesheet" type="text/css" href="css/browsererror.css" />
 	<!--Global Javascript files-->
-	<script type='text/javascript' src="http://www.google.com/jsapi"></script><!-- google api downloader-->
-	<!--<script type='text/javascript' src='js/jquery/jQuery.js'></script><!--Latest Jquery files-->
-	<script type='text/javascript' src='js/jquery/jQuery_.js'></script><!--Latest Jquery files-->
+	<script type='text/javascript' src='js/jquery/jQuery.js'></script>
 
 	<!--JAVASCRIPT AND CSS FILES FOR SPECIFIC PAGES (loaded by controllers) -->
 	<?php echo ($headextra); ?>
