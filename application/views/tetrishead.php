@@ -22,7 +22,6 @@
 	<script type='text/javascript' src='js/jquery/jQuery.js'></script><!--Latest Jquery files-->
 	<script type='text/javascript' src='js/preloading/loader.jquery.js'></script><!--preloading-->
 	<script src='http://heartcode-canvasloader.googlecode.com/files/heartcode-canvasloader-min-0.9.1.js'></script>
-	<!--<script type='text/javascript' src='js/jquery/jQuery_.js'></script><!--Latest Jquery files-->
 
 	<!--JAVASCRIPT AND CSS FILES FOR SPECIFIC PAGES (loaded by controllers) -->
 	<?php echo ($headextra); ?>
