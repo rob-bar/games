@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://local.oldportfolio/';
+$config['base_url']	= 'http://games.robbiebardijn.be/';
 
 /*
 |--------------------------------------------------------------------------
